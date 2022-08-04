@@ -105,6 +105,7 @@ export const PROJECT_STATUS = {
   INIT_FAILED: 'INIT_FAILED',
   REMOVED: 'REMOVED',
   RESTORING: 'RESTORING',
+  UPGRADING: 'UPGRADING',
 }
 
 export const STRIPE_PRODUCT_IDS: { [x: string]: string } = {
